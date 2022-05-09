@@ -142,7 +142,7 @@ body a, p, h1, h2 {
     position: relative;
     min-width: 100%;
     /* height: 100vh; */
-    background: url(../Explore/img/BG.png) fixed top center;
+    background: url(img/BG.png) fixed top center;
     background-size: cover;
     flex: 1 1 auto; 
     z-index: -1;   
